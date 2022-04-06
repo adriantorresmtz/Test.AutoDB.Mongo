@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a72ba1b6-9df2-42bb-bf71-6bdc15bd3a7b": {
+      "ProjectGuid": "a72ba1b6-9df2-42bb-bf71-6bdc15bd3a7b",
+      "DisplayName": "ProductApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
